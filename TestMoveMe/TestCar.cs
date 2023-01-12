@@ -3,7 +3,7 @@ using NUnit.Framework;
 
 namespace TestMoveMe
 {
-    public class TestMove
+    public class TestCar
     {
         private string _brand = "";
         private Car _car;
